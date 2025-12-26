@@ -1,6 +1,6 @@
 # Quiz App
 
-![Quiz App Demo](./public/react-demo.gif)
+<img src="./public/react-demo.gif" alt="Quiz App Demo" style="width: 100%; max-width: 800px;">
 
 This is a simple quiz application built using React and Vite.
 
